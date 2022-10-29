@@ -6,4 +6,10 @@
   ],
   "dependencyDashboard": true,
   "includeForks": true,
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "automerge": true
+    }
+  ]
 }
