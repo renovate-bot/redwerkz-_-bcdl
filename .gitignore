@@ -1,8 +1,5 @@
 *.jar
 out
-/gradlew
-/gradlew.bat
-/gradle/wrapper/gradle-wrapper.properties
 *.iml
 .gradle
 .idea
