@@ -1,7 +1,5 @@
 *.jar
 out
-/gradlew
-/gradlew.bat
 *.iml
 .gradle
 .idea
