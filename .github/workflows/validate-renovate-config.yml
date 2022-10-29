@@ -14,8 +14,7 @@ jobs:
     strategy:
       matrix:
         file:
-          - default
-          - renovate-config
+          - renovate
     env:
       RENOVATE_CONFIG_FILE: ${{ matrix.file }}.json
 
