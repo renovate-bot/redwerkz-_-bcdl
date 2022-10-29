@@ -1,4 +1,9 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [ "base:config" ]
+  "description": "Default preset for use with Redwerkz's repos",
+  "extends": [
+    "config:base"
+  ],
+  "dependencyDashboard": true,
+  "includeForks": true,
 }
