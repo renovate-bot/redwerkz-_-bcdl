@@ -1,4 +1,6 @@
-== Bandcamp collection downloader
+= Bandcamp collection downloader
+
+[![Scorecards supply-chain security](https://github.com/redwerkz/bcdl/actions/workflows/scorecards.yml/badge.svg)](https://github.com/redwerkz/bcdl/actions/workflows/scorecards.yml)
 
 A command-line tool to automatically download all releases purchased with a Bandcamp account.
 
